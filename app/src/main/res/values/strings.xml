@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MADLevel1Task1</string>
+    <string name="appHeader">Guess if the next throw is going to be lower, equal or higher</string>
+    <string name="throwValue">Last throw: %d</string>
+    <string name="btnLower">Lower</string>
+    <string name="btnEqual">Equals</string>
+    <string name="btnHigher">Higher</string>
+</resources>
